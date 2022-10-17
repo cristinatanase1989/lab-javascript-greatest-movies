@@ -1,6 +1,9 @@
 // Iteration 1
 describe('Function "getAllDirectors"', () => {
   it('should be declared', () => {
+
+
+    
     expect(typeof getAllDirectors).toBe('function');
   });
 

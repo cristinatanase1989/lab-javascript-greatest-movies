@@ -2001,3 +2001,7 @@ const movies = [
     score: 8
   }
 ];
+if (typeof module !==
+   "undefined"){ 
+    module.exports = movies;
+   }
